@@ -21,7 +21,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. NLTK data will be downloaded automatically on first run
+3. NLTK data will be downloaded automatically on first run. You have to restart the kernel after the requirements are successfully downloaded
 
 ## Running the System
 
