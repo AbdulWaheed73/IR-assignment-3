@@ -1,0 +1,6 @@
+=== Evaluation Results ===
+
+Mean Precision@5: 0.100
+Mean Precision@10: 0.070
+Mean Recall@10: 0.140
+Average query time: 0.6900s

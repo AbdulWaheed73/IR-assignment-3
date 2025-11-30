@@ -1,0 +1,42 @@
+[
+  {
+    "query": "oil prices decline",
+    "relevant_docs": [4, 5, 7, 9, 12]
+  },
+  {
+    "query": "stock market performance",
+    "relevant_docs": [1, 2, 3, 10, 11]
+  },
+  {
+    "query": "Pakistan cricket team",
+    "relevant_docs": [1060, 1113, 1145, 1625, 2230]
+  },
+  {
+    "query": "China investment Pakistan",
+    "relevant_docs": [99, 115, 2509, 2530, 88]
+  },
+  {
+    "query": "crude oil production Saudi Arabia",
+    "relevant_docs": [5, 88, 4, 7, 9]
+  },
+  {
+    "query": "Asia stock market trading",
+    "relevant_docs": [1, 112, 508, 546, 392]
+  },
+  {
+    "query": "Pakistan fuel energy crisis",
+    "relevant_docs": [22, 43, 65, 72, 52]
+  },
+  {
+    "query": "World Twenty20 cricket",
+    "relevant_docs": [1445, 1421, 1479, 1274, 1303]
+  },
+  {
+    "query": "OGRA petrol price hike",
+    "relevant_docs": [542, 22, 43, 52, 65]
+  },
+  {
+    "query": "India Pakistan sports",
+    "relevant_docs": [1113, 1303, 1420, 2230, 1625]
+  }
+]
